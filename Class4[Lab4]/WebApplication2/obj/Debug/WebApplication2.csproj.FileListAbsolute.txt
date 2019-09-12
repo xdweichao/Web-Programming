@@ -1,0 +1,5 @@
+D:\College\2nd Year 2nd Semester\CST 2309 --- Web Programming I\Classes\Class4[Lab4]\WebApplication2\bin\WebApplication2.dll
+D:\College\2nd Year 2nd Semester\CST 2309 --- Web Programming I\Classes\Class4[Lab4]\WebApplication2\bin\WebApplication2.pdb
+D:\College\2nd Year 2nd Semester\CST 2309 --- Web Programming I\Classes\Class4[Lab4]\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+D:\College\2nd Year 2nd Semester\CST 2309 --- Web Programming I\Classes\Class4[Lab4]\WebApplication2\obj\Debug\WebApplication2.dll
+D:\College\2nd Year 2nd Semester\CST 2309 --- Web Programming I\Classes\Class4[Lab4]\WebApplication2\obj\Debug\WebApplication2.pdb
